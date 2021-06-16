@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhaysharma53
 - 👀 I’m interested in Data Science, Machine Learning, Business Analytics And Optimization Techniques
-- 🌱 I’m currently learning Machine Learning and Data Visualization
+- 🌱 I’m currently upskiling myself Machine Learning and Data Visualization
 - 💞️ I’m looking to collaborate on Data science and ML projects 
 - 📫 How to reach me ... linkedin - https://in.linkedin.com/in/abhay-sharma01
                            Email - abs0503000@gmail.com
