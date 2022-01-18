@@ -3,7 +3,7 @@
 - 🌱 I’m currently upskiling myself in Machine Learning and Data Visualization
 - 💞️ I’m looking to collaborate on Data science and ML projects 
 - 📫 How to reach me 
-                           Email - abs0503000@gmail.com
+                           Email - abs0503000@gmail.com     Linkedin - https://www.linkedin.com/in/abhay-sharma01/
 
 <!---
 Abhaysharma53/Abhaysharma53 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
