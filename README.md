@@ -16,7 +16,7 @@ Always learning, always iterating. Let's build things that make sense and make a
 
 ## My Github Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhaysharma53&label=Profile%20views&color=0e75b6&style=flat" alt="Abhaysharma53" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhaysharma53&label=Profile%20views&color=0e75b6&style=flat" alt="Abhaysharma53" /> </p> -->
 
 ![github stats](https://github-readme-streak-stats.herokuapp.com/?user=Abhaysharma53)
 
